@@ -1,21 +1,21 @@
 {
-  "name": "starter-svelte",
+  "name": "template-svelte-storybook",
   "version": "0.1.0",
-  "description": "Starter repo for svelte-jest-storybook",
+  "description": "Fire growth map",
   "main": "index.js",
   "author": "Collin D. Bevins <cbevins@montana.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cbevins/template-svelte-storybook.git"
+    "url": "git+https://github.com/cbevins/fire-growth-map.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
   "bugs": {
-    "url": "https://github.com/cbevins/template-svelte-storybook/issues"
+    "url": "https://github.com/cbevins/fire-growth-map/issues"
   },
-  "homepage": "https://github.com/cbevins/template-svelte-storybook#readme",
+  "homepage": "https://github.com/cbevins/fire-growth-map#readme",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
